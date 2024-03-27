@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 <!--
-**CalebCanham/CalebCanham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello World!
 
 - 🔭 I’m currently working on ... graduating college
 - 🌱 I’m currently learning ... JavaScript
@@ -12,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Python
 - 📫 How to reach me: ... 🤷‍♂
 - ⚡ Fun fact: ... My eyes are gray
--->
